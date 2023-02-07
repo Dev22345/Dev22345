@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dev22345
 - 👀 I’m interested in nothing
 - 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on beautiful girls
+- 💞️ I’m looking to collaborate on python
 - 📫 How to reach me +919781714900
 
 <!---
